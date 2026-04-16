@@ -1,6 +1,6 @@
 cask "eye-guard" do
-  version "3.1.1"
-  sha256 "3a57262ed579a2e1c2262df4113182ca6a8ef8238c1690fbbbc0f47da565622f"
+  version "3.1.2"
+  sha256 "e669a9daf6f86d574626bf00abddea0507866c37a9c28d4f853379d7c97aae49"
 
   url "https://github.com/MashellHan/eye-guard/releases/download/v#{version}/EyeGuard.dmg"
   name "EyeGuard"
